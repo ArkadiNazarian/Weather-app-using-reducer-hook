@@ -15,6 +15,8 @@ This project is a weather application that displays the current weather informat
 
 ## MVC Design Pattern
 
+In this project, the MVC design pattern is implemented
+
 ## How to Run the Application
 
 1. Clone the repository
